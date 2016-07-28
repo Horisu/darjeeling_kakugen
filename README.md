@@ -1,8 +1,10 @@
 darjeeling_kakugen
 =================
-Overview
+## Overview
 
 ダージリン様の格言をランダムに返すコマンドを追加します
+
+![cowsay](cowsay.png)
 
 ## install
 ```shell
@@ -18,5 +20,5 @@ darjeeling
 
 ## uninstall
 ```
-./uninstall
+sudo ./uninstall
 ```
